@@ -4,8 +4,20 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-
-
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.div{
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background: green;
+    align-items: center;
+    justify-content: center;
+    
+}
 
 
 
